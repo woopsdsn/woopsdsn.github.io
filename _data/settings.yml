@@ -10,7 +10,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: '物是上新'
-      url: '/'
+      url: '/latest'
     - title: '产品系列'
       url: '/blog/'
     - title: '物是分享'
