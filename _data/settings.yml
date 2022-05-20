@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: 物是设计
+  site_tagline: 行不逾矩，物尽其用
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,14 +9,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: '物是上新'
       url: '/'
-    - title: 'Blog'
+    - title: '产品系列'
       url: '/blog/'
-    - title: 'About'
+    - title: '物是分享'
+      url: '/sharing/'
+    - title: '关于我们'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: '联系我们'
+      url: '/contanct'
 
 grid_settings:
   overlay_opacity: 0.8
