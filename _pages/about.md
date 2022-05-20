@@ -14,15 +14,15 @@ featured_image: /images/LOGO.jpg
 
 ## 物是设计家的BOSS们
 
-![](/images/about1.jpg)
 
-![](/images/about2.jpg)
+<div class="gallery" data-columns="3">
+	<img src="/images/about1.jpg">
+	<img src="/images/about2.jpg">
+	<img src="/images/about3.jpg">
+	<img src="/images/about4.jpg">
+	<img src="/images/about5.jpg">
+</div>
 
-![](/images/about3.jpg)
-
-![](/images/about4.jpg)
-
-![](/images/about5.jpg)
 
 ![](/images/about6.jpg)
 
