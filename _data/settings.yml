@@ -10,7 +10,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: '物是上新'
-      url: '/latest'
+      url: '/'
     - title: '产品系列'
       url: '/blog/'
     - title: '物是分享'
@@ -18,7 +18,7 @@ menu_settings:
     - title: '关于我们'
       url: '/about'
     - title: '联系我们'
-      url: '/contanct'
+      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8
